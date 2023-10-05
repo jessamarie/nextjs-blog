@@ -9,6 +9,7 @@ module.exports = (phase, { defaultConfig }) => {
   }
 
   return {
-    basePath: '/nextjs-blog'
+    basePath: '/nextjs-blog',
+    output: 'export'
   };
 };
