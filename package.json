@@ -1,5 +1,7 @@
 {
   "private": true,
+  "homepage": "https://github.com/jessamarie/nextjs-blog",
+  "author": "@jessamarie",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
